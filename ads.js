@@ -12,13 +12,12 @@
 	}
 
     var direct_link_ads = rChoice([
-                            "#YOUR_DIRECTLINK_ADS1",
-                            "#YOUR_DIRECTLINK_ADS2",
+                            "https://shovedrailwaynurse.com/a67vz9ty8?key=1fa38d29cfee592536bc44db58fc7e8b",
+                            "https://raggedstriking.com/m027ics61?key=0442a843f46b4cb852aca82ceb965d37",
                         ]);
 
     var ars             = rChoice([
-                            "#YOUR_ARSAE_SERVER_OR_OTHER_DOMAIN_1",
-                            "#YOUR_ARSAE_SERVER_OR_OTHER_DOMAIN_2",
+                            "https://correctly.me/",
                         ]);
 
 
