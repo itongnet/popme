@@ -17,7 +17,7 @@
                         ]);
 
     var ars             = rChoice([
-                            "https://correctly.me/",
+                            "https://indralokanews.com/",
                         ]);
 
 
